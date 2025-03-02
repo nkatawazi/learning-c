@@ -1,0 +1,6 @@
+Jim, Salesman
+Pam, Receptionist
+Oscar, Accountant
+Jim, Salesman
+Pam, Receptionist
+Oscar, Accountant
