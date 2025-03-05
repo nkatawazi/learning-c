@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/source/learning-c/sorting",
-      "program": "c:/source/learning-c/sorting/build/Debug/outDebug",
+      "cwd": "c:/source/learning-c/c-programming-a-modern-approach/chapter-3",
+      "program": "c:/source/learning-c/c-programming-a-modern-approach/chapter-3/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
